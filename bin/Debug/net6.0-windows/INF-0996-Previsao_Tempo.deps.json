@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "INF-0996-Previsao_Tempo/1.0.0": {
+        "runtime": {
+          "INF-0996-Previsao_Tempo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INF-0996-Previsao_Tempo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
